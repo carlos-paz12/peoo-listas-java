@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097c03ad-a442-4760-a3d3-8506eec97352" name="Changes" comment="" />
+    <list default="true" id="097c03ad-a442-4760-a3d3-8506eec97352" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifrn/peoo/listas/lista07/Q11.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +46,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/20201114010055/Documents/IntelliJ/peoo-listas-java/src/main/java/br/edu/ifrn/peoo/listas/lista05"
+    "last_opened_file_path": "C:/Users/20201114010055/Documents/IntelliJ/peoo-listas-java/src/main/java/br/edu/ifrn/peoo/listas/lista07"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\20201114010055\Documents\IntelliJ\peoo-listas-java\src\main\java\br\edu\ifrn\peoo\listas\lista07" />
+      <recent name="C:\Users\20201114010055\Documents\IntelliJ\peoo-listas-java\src\main\java\br\edu\ifrn\peoo\listas\lista06" />
       <recent name="C:\Users\20201114010055\Documents\IntelliJ\peoo-listas-java\src\main\java\br\edu\ifrn\peoo\listas\lista05" />
     </key>
   </component>
